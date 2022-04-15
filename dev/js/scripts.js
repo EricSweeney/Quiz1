@@ -1,4 +1,4 @@
-//import { gsap } from "gsap";
+import { gsap } from "gsap";
 
 //Replace this value with your name
 const yourName = "Eric Sweeney"
